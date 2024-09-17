@@ -1,0 +1,13 @@
+data:
+bucket_name: your-bucket-name
+data_path: path/to/your/data.csv
+
+model:
+  architecture: resnet50
+  learning_rate: 0.001 
+  batch_size: 32 
+  epochs: 10
+  
+visualization:
+  figsize: [10, 6]  
+  dpi: 300

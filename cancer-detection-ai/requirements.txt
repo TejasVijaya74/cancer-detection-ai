@@ -1,0 +1,10 @@
+google-cloud-aiplatform
+google-cloud-storage
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+monai
+scikit-learn
+shap
